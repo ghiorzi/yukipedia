@@ -1,7 +1,7 @@
 # yukipedia
 
 ### Carreira
-  - [Minha perspectiva sobre ser programador.md](https://github.com/ghiorzi/yukipedia/blob/main/career/Minha%20perspectiva%20sobre%20ser%20programador.md)
+  - [Minha perspectiva sobre ser programador](https://github.com/ghiorzi/yukipedia/blob/main/career/Minha%20perspectiva%20sobre%20ser%20programador.md)
 ### Legibilidade
   - [Sobrecarga de operador](https://github.com/ghiorzi/yukipedia/blob/main/legibility/Sobrecarga%20de%20operador.md)
   - [Pandemonium: uma breve reflexão sobre expressividade](https://github.com/ghiorzi/yukipedia/blob/main/legibility/Pandemonium:%20uma%20breve%20reflex%C3%A3o%20sobre%20expressividade.md)
